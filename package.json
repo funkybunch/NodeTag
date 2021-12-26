@@ -1,0 +1,31 @@
+{
+  "name": "nodetag",
+  "version": "1.0.0",
+  "description": "A NodeJS client for the Maytag API for connected Washer & Dryer Appliances.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funkybunch/NodeTag.git"
+  },
+  "keywords": [
+    "maytag",
+    "api",
+    "client"
+  ],
+  "author": "Mark Adkins <git@markadkins.design> (https://markadkins.design)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/funkybunch/NodeTag/issues"
+  },
+  "homepage": "https://github.com/funkybunch/NodeTag#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "qs": "^6.10.2"
+  }
+}
