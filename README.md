@@ -1,3 +1,5 @@
+## DEPRECATION NOTICE: This project will not receive further updates as there is an effort ongoing to incorporate these devices into an existing integration already in Home Assistant.
+
 # NodeTag
  A read-only NodeJS client for the Maytag API for connected Washer & Dryer Appliances.
 
